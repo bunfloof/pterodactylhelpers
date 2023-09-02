@@ -1,0 +1,26 @@
+[ 
+    {
+        "name": "SFTPAndFTPImporter",
+        "friendlyname": "SFTP and FTP Importer",
+        "author": "bun",
+        "description": "Transfer files from other hosts to this host via FTP or SFTP.",
+        "sourcecode": "https://github.com/bunfloof/SFTPandFTPImporter",
+        "directdownloadurl": "https://github.com/bunfloof/SFTPandFTPImporter/releases/download/Release/main",
+        "config": {
+            "dashes": "single",
+            "parameters": ["protocol", "user", "pass", "remoteServer", "remoteFolder", "targetFolder"]
+        }
+    },
+    {
+        "name": "Proot",
+        "friendlyname": "Proot",
+        "author": "bun",
+        "description": "Access proot.",
+        "sourcecode": "https://github.com/bunfloof/ProotAccess",
+        "directdownloadurl": "https://github.com/bunfloof/ProotAccess/releases/download/Release/main",
+        "config": {
+            "dashes": "single",
+            "parameters": ["user"]
+        }
+    }
+]
