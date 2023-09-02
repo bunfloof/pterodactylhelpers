@@ -1,0 +1,3 @@
+# PterodactylHelpers
+
+Collection of scripts.
